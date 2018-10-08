@@ -1,0 +1,2 @@
+# reverse-shell-WordPress-pugin
+Generates a wordpress plugin that will grant you a reverse shell once uploaded and navigated to. I loved wetw0rk's script (https://github.com/wetw0rk/malicious-wordpress-plugin), but I didn't want to use Meterpreter during my time preparing for the OSCP exam so I modified his to generate a reverse shell instead. Props go to wetw0rk. Not sure if the Windows functionality is there but it definitely works against Linux.
